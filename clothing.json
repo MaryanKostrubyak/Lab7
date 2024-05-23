@@ -1,0 +1,29 @@
+{
+    "name": "Одяг",
+    "products": [
+      {
+        "id": 1,
+        "name": "Футболка",
+        "shortname": "tshirt",
+        "description": "Класична футболка",
+        "price": 20,
+        "image": "https://place-hold.it/200x200/black"
+      },
+      {
+        "id": 2,
+        "name": "Джинси",
+        "shortname": "jeans",
+        "description": "Класичні джинси",
+        "price": 50,
+        "image": "https://place-hold.it/200x200/black"
+      },
+      {
+        "id": 3,
+        "name": "Куртка",
+        "shortname": "jacket",
+        "description": "Тепла куртка",
+        "price": 80,
+        "image": "https://place-hold.it/200x200/black"
+      }
+    ]
+}

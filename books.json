@@ -1,0 +1,29 @@
+{
+    "name": "Книги",
+    "products": [
+      {
+        "id": 1,
+        "name": "Неповноціннаа людина",
+        "shortname": "human_lost",
+        "description": "Автобіографічна книжка Дазая Осаму",
+        "price": 15,
+        "image": "https://place-hold.it/200x200/black"
+      },
+      {
+        "id": 2,
+        "name": "Моя боротьба",
+        "shortname": "mein_kampf",
+        "description": "Книжка Гітлера",
+        "price": 12,
+        "image": "https://place-hold.it/200x200/black"
+      },
+      {
+        "id": 3,
+        "name": "Дюна",
+        "shortname": "dune",
+        "description": "Научна фантастична романтика",
+        "price": 18,
+        "image": "https://place-hold.it/200x200/black"
+      }
+    ]
+}
